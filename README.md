@@ -82,13 +82,6 @@ To run the app using docker, follow the steps below:
 
 **Note:** To stop your server, press `Ctrl+c` or if you used "pm2", then use `pm2 stop server.js` in the terminal.
 
-## Project Video
-
-https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/assets/79283402/14c17cc7-d23a-4d39-8af3-ef9e9fa8ef45
-
-**Note:** If you find any bugs, create an Issue [here](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/issues). I will try to fix it as soon as possible :) <br>
-In case you want to fix it yourself, feel free to make a pull request.
-
 ## Future Scope
 
 1. [x] Added syntax highlighting for multiple languages
